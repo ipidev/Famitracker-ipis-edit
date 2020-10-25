@@ -1,5 +1,5 @@
 # Famitracker - ipi's edit
-This fork of FamiTracker 0.4.2 dates back to 9th January 2014. I had decided to add some features which I personally found useful, such as the Lxx effect and the multiple expansion chip selector. These changes apparently inspired the creation of HertzDevil's well-known 0CC-Famitracker fork, which has had many new features added since.
+This fork of FamiTracker 0.4.2 dates back to 9th January 2014. I had decided to add some features which I personally found useful, such as the Lxx effect and the multiple expansion chip selector. These changes apparently inspired the creation of HertzDevil's well-known [0CC-Famitracker](https://github.com/HertzDevil/0CC-FamiTracker) fork, which has had many new features added since.
 
 While this version of FamiTracker is now largely outdated (and indeed never really got a proper name), I've decided to publish it to ensure this piece of chiptune history is not lost. 0CC-Famitracker is a tool that many people use and enjoy, and it's nice to have at least had a small part in its development.
 
